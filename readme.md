@@ -1,7 +1,14 @@
-# Cypress Heroes Demo Application
+### Cypress Heroes
 
-This is a demo application that shows how to use Cypress to run end-to-end,
-component, and API tests against an application.
+![foto-capa](client/cypress/assets/cypress-heroes-capa.png) 
+
+This repository is based on the project developed at (https://github.com/cypress-io/cypress-heroes) It contains automated tests implemented with Cypress for the Cypress Heroes application. The test suite covers key functionalities, including user login and hero menu interactions such as creating a hero, hiring a hero, editing a hero, and deleting a hero. All test cases were developed by me Victor Augusto de Paula.
+
+Test Cases Covered:
+
+- heroMenu.js: Tests the functionality related to creating and editing a hero, including the use of the like button for a hero, the hire button for hiring or not hiring a hero, the edit hero button for editing or not editing a hero, and the delete hero button for deleting or not deleting a hero.
+
+- loginPage.js: Validates the login functionality using both valid and invalid credentials.
 
 ## Getting Started
 
