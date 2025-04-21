@@ -18,7 +18,8 @@ install the dependencies at the root folder:
 ```shell
 git clone https://github.com/victoragsto5/cypress-heroes
 cd client/cypress
-``` 
+```
+Installing npm
 
 ```sh
 npm install
