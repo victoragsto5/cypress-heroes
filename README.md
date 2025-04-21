@@ -13,7 +13,12 @@ Test Cases Covered:
 ## Getting Started
 
 The app is a mono repo that uses npm workspaces. Once you clone the project,
-install the dependencies at the root folder:
+install the dependencies at the root folder: 
+
+```shell
+git clone https://github.com/victoragsto5/cypress-heroes
+cd client/cypress
+``` 
 
 ```sh
 npm install
